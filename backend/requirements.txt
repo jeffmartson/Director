@@ -16,3 +16,4 @@ replicate==1.0.1
 yt-dlp==2024.10.7
 videodb==0.2.5
 slack_sdk==3.33.2
+python-socketio>=5.14.0 # not directly required, pinned by Snyk to avoid a vulnerability
